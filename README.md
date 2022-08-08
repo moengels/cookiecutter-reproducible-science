@@ -6,7 +6,7 @@ Forked from Mario Krapp, adapted by KG lab members
 
 Requirements
 ------------
-Install `cookiecutter` command line: `pip install cookiecutter`    
+Install `cookiecutter` command line: `conda install cookiecutter`    
 
 Usage
 -----
